@@ -1,3 +1,3 @@
 # React-Typescript
 
-Basic Typescript usage alongside React Hooks. 
+Basic Typescript usage alongside React useContext Hook. 
